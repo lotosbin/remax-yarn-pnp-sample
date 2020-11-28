@@ -22,5 +22,8 @@
     "cross-env": "^7.0.2",
     "pnp-webpack-plugin": "^1.6.4",
     "typescript": "^3.7.3"
+  },
+  "resolutions": {
+    "@remax/cli": "file:../remax/packages/remax-cli"
   }
 }
